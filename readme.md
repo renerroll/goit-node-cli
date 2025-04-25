@@ -30,7 +30,7 @@ node index.js --action list
 ### Get contact by ID
 
 ```bash
-node index.js --action get --id 05olLMgyVQdWRwgKfg5J6
+node index.js --action get --id vza2RIzNGIwutCVCs4mCL
 ```
 
 ### Add new contact
